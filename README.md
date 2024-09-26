@@ -22,35 +22,35 @@ Running Cloned Repository using VSCode's Live Server Extension;:
 HTMl Tags:
 
 - Semantics
-    <!DOCTYPE html>
-    <html>
-    <head>
-    <title>
-    <body>
-    <header>
-    <section>
-    <article>
-    <footer>
+    !DOCTYPE html
+    html
+    head
+    title
+    body
+    header
+    section
+    article
+    footer
 - Paragraphs and Headings
-    <h1>
-    <h2>
-    <h3>
-    <h4>
-    <p>
-    <em>
+    h1
+    h2
+    h3
+    h4
+    p
+    em
 - Tables
-    <table>
-    <tr>
-    <th>
-    <td>
+    table
+    tr
+    th
+    td
 - Forms
-    <form>
-    <label>
-    <input>
-    <textarea>
+    form
+    label
+    input
+    textarea
 - Images
-    <img>
+    img
 - Links
-    <a>
+    a
 - Line Breaks
-    <br>
+    br
