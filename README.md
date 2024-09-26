@@ -1,4 +1,4 @@
-Description:
+Description of Portfolio:
 
     The repository holds the information regarding the author's skill sets, projects done through solo or collaborative development, and it has the necessary contact details to reach out to him.
 
