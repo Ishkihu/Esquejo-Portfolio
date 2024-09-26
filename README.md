@@ -11,7 +11,7 @@ Cloning Repository:
 - Choose Local Directory to Store Repository
 - Open Folder using VSCode
 
-Running Cloned Repository using VSCode's Live Server Extension;:
+Running Cloned Repository using VSCode's Live Server Extension:
 
 - Install Live Server from Extensions
 - View html file (Ex. [name of file].html)
