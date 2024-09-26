@@ -19,7 +19,7 @@ Running Cloned Repository using VSCode's Live Server Extension;:
     - Alternate: Click the 'Go Live' buttom at the lower right corner of VSCode
 
 
-HTMl Tags:
+HTML Tags:
 
 - Semantics (!DOCTYPE html, html, head, title, body, header, section, article, footer)
 - Paragraphs and Headings (h1-h4, p, em)
